@@ -51,3 +51,12 @@ def helloworld():
 def sum(a, b):
     print(a + b)
 
+def sum_digits(n):
+    n = abs(n)
+    s = 0
+    while n > 0:
+        s += n % 10
+        n //= 10
+    return s
+
+
