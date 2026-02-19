@@ -64,3 +64,6 @@ def helloworld():
         print("Hello World!")
 
 
+def byeworld():
+    for i in range(10):
+        print("Bye World!")
