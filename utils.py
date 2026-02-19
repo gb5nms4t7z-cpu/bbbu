@@ -59,4 +59,6 @@ def sum_digits(n):
         n //= 10
     return s
 
-
+def byeworld():
+    for i in range(10):
+        print("Bye World!")
