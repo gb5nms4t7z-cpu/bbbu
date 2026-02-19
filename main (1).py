@@ -10,3 +10,15 @@ print("Hello World")
 
 print(utils.sum(12, 7))
 print(utils.sum_digits(12345))
+
+utils.helloworld()  
+
+print("Hello World")
+
+
+print(utils.sum(12, 7))
+
+
+print(utils.sum_digits(12345))
+
+print("Bye World")
