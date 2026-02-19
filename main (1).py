@@ -21,4 +21,11 @@ print(utils.sum(12, 7))
 
 print(utils.sum_digits(12345))
 
+print("Hello World")
+
+utils.helloworld()
+utils.sum(12,7)
+print(utils.sum_digits(1234))
+print("Hello mech-mat")
+
 print("Bye World")
